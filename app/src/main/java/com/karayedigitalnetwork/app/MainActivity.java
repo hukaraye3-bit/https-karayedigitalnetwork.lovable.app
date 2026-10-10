@@ -1,4 +1,4 @@
-package com.karayedigitalnetwork.app;
+package com.karayedigitalnetwork.lovable.app;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;
